@@ -1,0 +1,76 @@
+[
+  {
+    "id": "28aed7ce-bdb2-4aa3-9525-d9f1e811e691",
+    "data": [
+      {
+        "text": "Запишите ",
+        "userDefined": false
+      },
+      {
+        "text": "Ивана",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " Ивановича на ",
+        "userDefined": false
+      },
+      {
+        "text": "экскурсию",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4d205893-6a15-4884-9302-38161000c499",
+    "data": [
+      {
+        "text": "ЗНЭ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "fef65c30-f4b7-461a-8c65-a8fd743ed415",
+    "data": [
+      {
+        "text": "запиши на ",
+        "userDefined": false
+      },
+      {
+        "text": "экскурсию",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "94cf6b43-6f59-42cb-a8f5-f15e717c86b0",
+    "data": [
+      {
+        "text": "хочу",
+        "userDefined": false
+      },
+      {
+        "text": " на экскурсию",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

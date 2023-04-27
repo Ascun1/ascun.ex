@@ -1,0 +1,49 @@
+[
+  {
+    "id": "ca6b2b88-453c-41b2-b93d-79f77d494a31",
+    "data": [
+      {
+        "text": "ОИ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "22372730-5627-421a-8ea6-18db3b78b17b",
+    "data": [
+      {
+        "text": "Дай ",
+        "userDefined": false
+      },
+      {
+        "text": "информацию",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "6910fdf9-a0fc-4abb-bcae-6e39998dfec0",
+    "data": [
+      {
+        "text": "Отправь ",
+        "userDefined": false
+      },
+      {
+        "text": "информацию",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "ru",
+    "updated": 0
+  }
+]

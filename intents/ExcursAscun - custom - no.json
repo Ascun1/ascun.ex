@@ -1,0 +1,49 @@
+{
+  "id": "892a94e9-a70e-4a61-9624-503daf9a8f26",
+  "parentId": "b104ad05-19ad-4c58-b327-8de9338fb55a",
+  "rootParentId": "9324ecae-4047-47ac-ad23-cd9589fb8ee2",
+  "name": "ExcursAscun - custom - no",
+  "auto": true,
+  "contexts": [
+    "ExcursAscun-custom-followup",
+    "name"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ExcursAscun.ExcursAscun-custom.ExcursAscun-custom-no",
+      "affectedContexts": [
+        {
+          "name": "name",
+          "lifespan": 5
+        },
+        {
+          "name": "excurs-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "Повторите пожалуйста запись на экскурсию"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

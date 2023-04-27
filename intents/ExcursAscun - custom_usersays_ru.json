@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cbc16ebb-181e-4269-8c42-c351308c9526",
+    "data": [
+      {
+        "text": "Машина",
+        "meta": "@sys.location",
+        "alias": "ExcursAscun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "bb28274f-a2f7-493a-a1f5-2b38d84289ea",
+    "data": [
+      {
+        "text": "Пешую",
+        "meta": "@sys.location",
+        "alias": "ExcursAscun",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2413c707-9d40-4c0e-b825-a5fbb9dc6428",
+    "data": [
+      {
+        "text": "На транспорте",
+        "meta": "@sys.location",
+        "alias": "ExcursAscun",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "0d640c0a-840d-41d8-bbf7-16770bc90313",
+    "data": [
+      {
+        "text": "Пешая",
+        "meta": "@sys.location",
+        "alias": "ExcursAscun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

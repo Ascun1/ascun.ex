@@ -1,0 +1,81 @@
+{
+  "id": "9324ecae-4047-47ac-ad23-cd9589fb8ee2",
+  "name": "ExcursAscun",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "name",
+          "lifespan": 15
+        },
+        {
+          "name": "excurs-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "ExcursAscun-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "79476c00-c170-4b77-908e-6c505573208f",
+          "name": "person",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Напишите пожалуйста ваше имя?"
+            },
+            {
+              "lang": "ru",
+              "value": "как могу к вам обращаться?"
+            },
+            {
+              "lang": "ru",
+              "value": "с кем имею честь говорить?"
+            },
+            {
+              "lang": "ru",
+              "value": "Кого записать на экскурсию?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "$person, какой вид экскурсии вас интересует? Могу предложить \" Пешую \" или \" На транспорте \""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

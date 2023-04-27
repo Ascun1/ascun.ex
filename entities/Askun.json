@@ -1,0 +1,9 @@
+{
+  "id": "9a80b710-fdec-4dd1-aeef-5970949ac3ab",
+  "name": "Askun",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

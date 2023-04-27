@@ -1,0 +1,227 @@
+[
+  {
+    "id": "deb5826b-076d-4380-8ad7-9ddc006f4f55",
+    "data": [
+      {
+        "text": "хай",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5d64b2bb-bb51-498a-828d-ef551c16c5d0",
+    "data": [
+      {
+        "text": "ку",
+        "meta": "@sys.last-name",
+        "alias": "last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "c25a4fdf-040b-4baf-aab0-d2700cbb00cb",
+    "data": [
+      {
+        "text": "привет привет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b4c7eec6-c3a5-41ec-b9df-e3f5c60696c3",
+    "data": [
+      {
+        "text": "здравствуй",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "59882da4-891e-405e-88cc-508a40211df6",
+    "data": [
+      {
+        "text": "привет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b3a68d89-dd4c-4f0c-bf3c-f8271f065126",
+    "data": [
+      {
+        "text": "приветствую",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "af9dafaf-4768-4249-9a04-d73cd55795f7",
+    "data": [
+      {
+        "text": "всем привет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "ca8a86f2-c99e-4cd7-9495-fe93d1530332",
+    "data": [
+      {
+        "text": "хей",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "98973e0b-b934-46eb-9884-f06d3e7d2e96",
+    "data": [
+      {
+        "text": "чао",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "cd5eb235-0160-44ab-87e3-e43343a6bca2",
+    "data": [
+      {
+        "text": "приветствую тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "2596b1ac-9a9d-4f13-8d16-ae0ca28dd5a3",
+    "data": [
+      {
+        "text": "приветик",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "9567a30c-32c1-4788-b2ce-ab5163e48ad3",
+    "data": [
+      {
+        "text": "и снова здравствуйте",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "b4c87e35-9578-42b2-92bc-b7aa12433a77",
+    "data": [
+      {
+        "text": "здравствуйте",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "5f473ccc-5f63-46b2-bcb1-c8037c374a23",
+    "data": [
+      {
+        "text": "давно не виделись",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "eb2d6ea4-84df-4772-a228-42f84a4acc9d",
+    "data": [
+      {
+        "text": "просто хотел поздороваться",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "10f88c00-9e7a-4f86-8212-52368af57eb9",
+    "data": [
+      {
+        "text": "хотелось бы тебя поприветствовать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  },
+  {
+    "id": "4c08e1ff-f1fa-403f-a0c0-70ed89d474b8",
+    "data": [
+      {
+        "text": "хочу сказать тебе привет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "ru",
+    "updated": 0
+  }
+]

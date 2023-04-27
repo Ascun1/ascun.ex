@@ -1,0 +1,71 @@
+{
+  "id": "b104ad05-19ad-4c58-b327-8de9338fb55a",
+  "parentId": "9324ecae-4047-47ac-ad23-cd9589fb8ee2",
+  "rootParentId": "9324ecae-4047-47ac-ad23-cd9589fb8ee2",
+  "name": "ExcursAscun - custom",
+  "auto": true,
+  "contexts": [
+    "name",
+    "excurs-followup",
+    "ExcursAscun-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ExcursAscun.ExcursAscun-custom",
+      "affectedContexts": [
+        {
+          "name": "ExcursAscun-custom-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c725e182-0630-4c7b-a1a3-349fb5e71424",
+          "name": "ExcursAscun",
+          "required": true,
+          "dataType": "@sys.location",
+          "value": "$ExcursAscun.original",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "ru",
+              "value": "Уточните пожалуйста вид экскурсии"
+            },
+            {
+              "lang": "ru",
+              "value": "напишите по новой вид экскурсии"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "ru",
+          "speech": [
+            "#name.person, Записываем вас на $ExcursAscun экскурсию, все верно?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}
